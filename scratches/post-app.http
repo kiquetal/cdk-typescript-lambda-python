@@ -1,0 +1,11 @@
+### POST to app
+POST localhost:3000/apps/1
+Content-Type: application/json
+
+{
+  "name": "App 1",
+  "description": "App 1 description",
+  "url": "http://app1.com",
+  "category": "Category 1",
+  "price": 1.99
+}
