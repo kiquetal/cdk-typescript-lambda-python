@@ -2,7 +2,7 @@
 
 Objective: Use cdk with typescript, but all lambdas will be use python, check how the layers function works!
 
-### Install dependencies only with requirement.txt
+### Install dependencies only with requirements.txt
 
 ```
 LAMBDA-LAYER
